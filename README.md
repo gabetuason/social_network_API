@@ -37,7 +37,7 @@ To view more, please check possible working routes for C.R.U.D. in the provided 
 
 Please view video demonstration below for example of usage.
 
-Video: 
+Video: https://watch.screencastify.com/v/iHIqnwgTJtCVd9kwlumZ 
 
 ## License
 
